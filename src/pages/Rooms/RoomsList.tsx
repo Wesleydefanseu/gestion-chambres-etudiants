@@ -42,15 +42,15 @@ export default function RoomsList() {
           images: ['https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=500'],
           available: true,
           owner_id: '1',
-          created_at: '2024-01-01',
-          updated_at: '2024-01-01',
+          created_at: '2025-01-01',
+          updated_at: '2025-01-01',
           owner: {
             id: '1',
             name: 'Paul Mboma',
             email: 'paul@email.com',
             phone: '+237 699 887 766',
             role: 'owner',
-            created_at: '2024-01-01'
+            created_at: '2025-01-01'
           }
         },
         {
@@ -69,11 +69,11 @@ export default function RoomsList() {
           updated_at: '2024-01-02',
           owner: {
             id: '2',
-            name: 'Marie Ngono',
+            name: 'Marie Ange',
             email: 'marie@email.com',
             phone: '+237 698 765 432',
             role: 'owner',
-            created_at: '2024-01-01'
+            created_at: '2025-01-01'
           }
         },
         {
@@ -88,8 +88,8 @@ export default function RoomsList() {
           images: ['https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=500'],
           available: true,
           owner_id: '3',
-          created_at: '2024-01-03',
-          updated_at: '2024-01-03',
+          created_at: '2025-01-03',
+          updated_at: '2025-01-03',
           owner: {
             id: '3',
             name: 'Jean Kamdem',
@@ -111,15 +111,15 @@ export default function RoomsList() {
           images: ['https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=500'],
           available: true,
           owner_id: '4',
-          created_at: '2024-01-04',
-          updated_at: '2024-01-04',
+          created_at: '2025-01-04',
+          updated_at: '2025-01-04',
           owner: {
             id: '4',
             name: 'Sophie Kamdem',
             email: 'sophie@email.com',
             phone: '+237 677 998 877',
             role: 'owner',
-            created_at: '2024-01-01'
+            created_at: '2025-01-01'
           }
         }
       ]);

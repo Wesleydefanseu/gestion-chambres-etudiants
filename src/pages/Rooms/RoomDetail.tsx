@@ -91,14 +91,14 @@ export default function RoomDetail() {
           student_id: 'student-001',
           rating: 5,
           comment: 'Excellente chambre ! Très propre et bien située. Le propriétaire est très sympa et réactif. Je recommande vivement !',
-          created_at: '2024-01-15',
-          updated_at: '2024-01-15',
+          created_at: '2025-01-15',
+          updated_at: '2025-01-15',
           student: {
             id: 'student-001',
             name: 'Marie Ngono',
             email: 'marie@email.com',
             role: 'student',
-            created_at: '2024-01-01'
+            created_at: '2025-01-01'
           }
         },
         {
@@ -107,14 +107,14 @@ export default function RoomDetail() {
           student_id: 'student-002',
           rating: 4,
           comment: 'Bonne chambre dans l\'ensemble. Seul petit bémol : un peu bruyant le soir à cause de la route. Mais sinon parfait pour étudier.',
-          created_at: '2024-01-10',
-          updated_at: '2024-01-10',
+          created_at: '2025-01-10',
+          updated_at: '2025-01-10',
           student: {
             id: 'student-002',
             name: 'Jean Kamdem',
             email: 'jean@email.com',
             role: 'student',
-            created_at: '2024-01-01'
+            created_at: '2025-01-01'
           }
         }
       ]);
